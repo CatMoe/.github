@@ -8,6 +8,7 @@
 
 
 - Image generation by [https://ldcivan.github.io/BA_logo/](https://ldcivan.github.io/BA_logo/)
+----
 ### 📢 Our social media and contact information
 - Our community communication forum and Discord: [https://www.miaomoe.net/](https://www.miaomoe.net/) | [https://discord.gg/7jFbvTzDjV](https://discord.gg/7jFbvTzDjV)
 - Our contact email: [Suppport@catmoe.work](https://mail:Suppport@catmoe.work)
@@ -27,3 +28,4 @@
 
 ### 📓 Appendix
 - If you would like to sponsor us, please feel free to visit this website for sponsorship. We sincerely appreciate your support
+----
